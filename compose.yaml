@@ -1,0 +1,7 @@
+version: '3'
+services:
+  myapp:
+    image: your-image-name:latest
+    ports:
+      - "8087:8087"
+
